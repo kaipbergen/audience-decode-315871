@@ -1,6 +1,6 @@
 # Audience Decode: Hybrid Behavioral Analysis
 
-**Team:** [Your Name / Student ID]
+**Team:** [Arshat Kaipbergen / Alikhan Salimov / Anuar Abdumannapov]
 **Course:** Machine Learning (2025/26)
 
 ## 1. Introduction
