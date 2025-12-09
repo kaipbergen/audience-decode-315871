@@ -37,7 +37,7 @@ Our tuned Hybrid Random Forest achieved an **accuracy of 74%**.
 * **Baseline:** 58% (Random Guessing)
 * **Lift:** +16% improvement over the baseline.
 
-![Feature Importance](hybrid_importance.png)
+![Feature Importance](images/hybrid_importance.png)
 *Figure 1: Feature Importance Analysis.*
 
 The analysis reveals that **User Generosity** (0.34) is the primary driver of ratings, but the inclusion of **Latent Taste Factors** (like Factor 1) provided the critical nuance required to achieve high accuracy.
