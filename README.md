@@ -42,7 +42,7 @@ Our tuned Hybrid Random Forest achieved an **accuracy of 74%**.
 
 The analysis reveals that **User Generosity** (0.34) is the primary driver of ratings, but the inclusion of **Latent Taste Factors** (like Factor 1) provided the critical nuance required to achieve high accuracy.
 
-## 5. Conclusions
+## 5.  Conclusions
 We successfully decoded the audience by proving that ratings are a complex function of **Who you are** (Generosity) + **What you like** (SVD Factors).
 * **Key Insight:** A user's historical rating behavior is a stronger predictor of enjoyment than the movie's popularity alone.
 * **Future Work:** A cold-start strategy is needed for new users who lack the history required for SVD vector generation.
