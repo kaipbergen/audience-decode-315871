@@ -1,7 +1,7 @@
 # Audience Decode: Hybrid Behavioral Analysis
 
 **Team:** [Arshat Kaipbergen / Alikhan Salimov / Anuar Abdumannapov]
-**Course:** Machine Learning (2025/26)
+**Course:** Machine Learning (2025/2026)
 
 ## 1. Introduction
 This project analyzes the `viewer_interactions` dataset to uncover behavioral patterns within a large-scale streaming platform. Rather than simply predicting individual ratings, our goal was to "decode" the audience by identifying distinct user segments, discovering latent taste clusters, and determining the primary drivers of user enjoyment.
